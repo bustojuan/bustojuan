@@ -66,3 +66,17 @@ Built a conversational AI assistant for vehicle diagnostics, leveraging RAG to r
 Built a computer vision application using pose estimation to analyse golf swings, track body movements and joint positions, compare swing mechanics against reference videos, and generate AI-powered feedback with personalised recommendations for technique improvement.
 
 **Tech:** Python · MediaPipe · OpenCV · React · FastAPI
+
+
+## Technical Stack
+
+**Programming & Development:** Python · TypeScript · React · FastAPI · SQL · PostgreSQL/pgvector · REST APIs
+
+**AI & Agentic Systems:** LangChain · LangGraph · RAG · MCP · Twilio · MediaPipe · OpenCV
+
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/juanbusto/) · [GitHub](https://github.com/bustojuan)
+
