@@ -8,6 +8,8 @@ Industrial Engineer and Technology & AI Consultant at Accenture, with experience
 
 I design and build end-to-end AI applications, combining agentic workflows, RAG, computer vision, and external integrations to turn complex technical capabilities into practical, user-facing solutions.
 
+## Featured Projects
+
 ### [Restaurant AI Booking Agent](https://github.com/bustojuan/Restaurant-AI-Booking-Agent)
 <a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
   <img src="images/RESTAURANT AI BOOKING AGENT.png" alt="Restaurant AI Booking Agent Dashboard" width="650">
