@@ -20,6 +20,7 @@ I design and build end-to-end AI applications, combining agentic workflows, RAG,
 <a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
   <img src="images/execution-timeline.png" alt="Restaurant AI Booking Agent Dashboard" width="650">
 </a>
+
 Built an AI-powered restaurant booking platform featuring a dedicated observability dashboard to visualise multi-agent workflows, inspect each agent’s outputs and tool calls, follow the execution timeline step by step, and analyse booking outcomes end to end.
 
 **Tech:** Python · FastAPI · LangGraph · React · Twilio
