@@ -19,7 +19,7 @@ Built an AI-powered restaurant booking platform featuring a dedicated observabil
 
 ### [AI Car Diagnostic Assistant](https://github.com/bustojuan/AI-CAR-DIAGNOSTIC)
 <a href="https://github.com/bustojuan/AI-CAR-DIAGNOSTIC">
-  <img src="images/car-diagnostic.png" alt="AI Car Diagnostic Assistant" width="650">
+  <img src="images/AI CAR DIAGNOSTIC.png" alt="AI Car Diagnostic Assistant" width="650">
 </a>
 
 Built a conversational AI assistant for vehicle diagnostics, leveraging RAG to retrieve relevant technical documentation and guide symptom-based troubleshooting, with MCP-integrated tools to identify compatible replacement parts and compare prices.
@@ -28,7 +28,7 @@ Built a conversational AI assistant for vehicle diagnostics, leveraging RAG to r
 
 ### [AI Golf Coach](https://github.com/bustojuan/AI_GOLF_COACH)
 <a href="https://github.com/bustojuan/AI_GOLF_COACH">
-  <img src="images/golf-coach.png" alt="AI Golf Coach" width="650">
+  <img src="images/AI GOLF COACH.png" alt="AI Golf Coach" width="650">
 </a>
 
 Built a computer vision application using pose estimation to analyse golf swings, track body movements and joint positions, compare swing mechanics against reference videos, and generate AI-powered feedback with personalised recommendations for technique improvement.
