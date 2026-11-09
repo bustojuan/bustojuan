@@ -1,3 +1,4 @@
+
 # Juan Busto
 
 **Industrial Engineer | Technology & AI Consultant**
@@ -10,16 +11,16 @@ I design and build end-to-end AI applications, combining agentic workflows, RAG,
 
 ## Featured Projects
 
-
 ### [Restaurant AI Booking Agent](https://github.com/bustojuan/Restaurant-AI-Booking-Agent)
 
-<p>
-  <a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
-    <img src="images/RESTAURANT AI BOOKING AGENT.png" alt="Restaurant Booking Interface" width="650">
-  </a>
-</p>
-
 <table>
+  <tr>
+    <td colspan="2">
+      <a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
+        <img src="images/RESTAURANT AI BOOKING AGENT.png" alt="Restaurant Booking Interface" width="100%">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
@@ -38,21 +39,29 @@ Built an AI-powered restaurant booking platform featuring a dedicated observabil
 
 **Tech:** Python · FastAPI · LangGraph · React · Twilio
 
+---
 
 ### [AI Car Diagnostic Assistant](https://github.com/bustojuan/AI-CAR-DIAGNOSTIC)
-<a href="https://github.com/bustojuan/AI-CAR-DIAGNOSTIC">
-  <img src="images/AI CAR DIAGNOSTIC.png" alt="AI Car Diagnostic Assistant" width="650">
-</a>
+
+<p>
+  <a href="https://github.com/bustojuan/AI-CAR-DIAGNOSTIC">
+    <img src="images/AI CAR DIAGNOSTIC.png" alt="AI Car Diagnostic Assistant" width="650">
+  </a>
+</p>
 
 Built a conversational AI assistant for vehicle diagnostics, leveraging RAG to retrieve relevant technical documentation and guide symptom-based troubleshooting, with MCP-integrated tools to identify compatible replacement parts and compare prices.
 
 **Tech:** Python · FastAPI · RAG · PostgreSQL/pgvector · MCP
 
+---
 
 ### [AI Golf Coach](https://github.com/bustojuan/AI_GOLF_COACH)
-<a href="https://github.com/bustojuan/AI_GOLF_COACH">
-  <img src="images/AI GOLF COACH.png" alt="AI Golf Coach" width="650">
-</a>
+
+<p>
+  <a href="https://github.com/bustojuan/AI_GOLF_COACH">
+    <img src="images/AI GOLF COACH.png" alt="AI Golf Coach" width="650">
+  </a>
+</p>
 
 Built a computer vision application using pose estimation to analyse golf swings, track body movements and joint positions, compare swing mechanics against reference videos, and generate AI-powered feedback with personalised recommendations for technique improvement.
 
