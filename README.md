@@ -11,17 +11,6 @@ I design and build end-to-end AI applications, combining agentic workflows, RAG,
 ## Featured Projects
 
 ### [Restaurant AI Booking Agent](https://github.com/bustojuan/Restaurant-AI-Booking-Agent)
-<a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
-  <img src="images/RESTAURANT AI BOOKING AGENT.png" alt="Restaurant AI Booking Agent Dashboard" width="650">
-</a>
-<a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
-  <img src="images/agent-graph.png" alt="Restaurant AI Booking Agent Dashboard" width="650">
-</a>
-<a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
-  <img src="images/execution-timeline.png" alt="Restaurant AI Booking Agent Dashboard" width="650">
-</a>
-
-### [Restaurant AI Booking Agent](https://github.com/bustojuan/Restaurant-AI-Booking-Agent)
 
 <p>
   <a href="https://github.com/bustojuan/Restaurant-AI-Booking-Agent">
