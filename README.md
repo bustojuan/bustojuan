@@ -45,7 +45,7 @@ Built an AI-powered restaurant booking platform featuring a dedicated observabil
 
 <p>
   <a href="https://github.com/bustojuan/AI-CAR-DIAGNOSTIC">
-    <img src="images/AI CAR DIAGNOSTIC.png" alt="AI Car Diagnostic Assistant" width="650">
+    <img src="images/AI CAR DIAGNOSTIC.png" alt="AI Car Diagnostic Assistant" width="100%">
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Built a conversational AI assistant for vehicle diagnostics, leveraging RAG to r
 
 <p>
   <a href="https://github.com/bustojuan/AI_GOLF_COACH">
-    <img src="images/AI GOLF COACH.png" alt="AI Golf Coach" width="650">
+    <img src="images/AI GOLF COACH.png" alt="AI Golf Coach" width="100%">
   </a>
 </p>
 
