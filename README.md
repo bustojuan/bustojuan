@@ -1,6 +1,12 @@
+# Juan Busto
+
+**Industrial Engineer | Technology & AI Consultant**
+
+### About Me
+
 Industrial Engineer and Technology & AI Consultant at Accenture, with experience in business process transformation, AI solution design, and software development.
 
-I design and build end-to-end AI applications, combining agentic workflows, retrieval-augmented generation (RAG), computer vision, and external integrations to turn complex technical capabilities into practical, user-facing solutions.
+I design and build end-to-end AI applications, combining agentic workflows, RAG, computer vision, and external integrations to turn complex technical capabilities into practical, user-facing solutions.
 
 ### [Restaurant AI Booking Agent](https://github.com/bustojuan/Restaurant-AI-Booking-Agent)
 Built an AI-powered restaurant booking platform featuring a dedicated observability dashboard to visualise multi-agent workflows, inspect each agent’s outputs and tool calls, follow the execution timeline step by step, and analyse booking outcomes end to end.
